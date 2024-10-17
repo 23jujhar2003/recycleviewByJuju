@@ -10,7 +10,7 @@
         android:id="@+id/receiveAvatar"
         android:layout_width="50dp"
         android:layout_height="50dp"
-        android:src="@drawable/recieve_image"
+        android:src="@drawable/recieve_message"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
